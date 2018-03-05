@@ -1,4 +1,4 @@
-ccfinderx
+ccfinderx (MIT License)
 =========
 
 To compile the project on the development PC execute:
